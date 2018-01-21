@@ -1,2 +1,3 @@
 # hello-world
-I exist
+I think therefore I exist.
+Or at least I think so.
